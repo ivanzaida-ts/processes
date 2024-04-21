@@ -1,0 +1,3 @@
+# Scrum rituals
+
+## TODO
