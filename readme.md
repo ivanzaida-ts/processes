@@ -25,4 +25,4 @@ In a software engineering team, "processes" refer to the structured collection o
 1. [Code Review](code-review.md)
 2. [Knowledge Sharing](knowledge-sharing.md)
 3. [QA](qa.md)
-4. [Scrum Rituals](https://scrumguides.org/scrum-guide.html)
+4. [Scrum Rituals](scrum.md)
